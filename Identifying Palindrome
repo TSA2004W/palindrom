@@ -1,4 +1,8 @@
-This is a palindrome. I identified this by:
-Writing out the originial word 'Racecar'
-Re write the word from Right-left immediately unerneath the original word
+How to Identify a Palindrome:
+Write out the originial word e.g.'Radar'
+Re write the word from right to left immediately underneath the original word
+RADAR
+rader
 See if the two words match up
+If they do it is a palindrome
+If they don't it is not a palindrome
